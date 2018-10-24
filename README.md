@@ -1,22 +1,17 @@
-# README
+# Steps to run this application
+    * For installation follow , https://gorails.com/setup/osx/10.13-high-sierra
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+    * clone the repo
+         $ git clone https://github.com/thespdevrohi/ROR_tasks.git
+         $ cd ROR_tasks
 
-Things you may want to cover:
+    * Start the server
+        $ rails server [Make sure all the requirements are installed]
 
-* Ruby version : ruby-2.3.0
+    * Go to browser and enter http://localhost:3000/articles
 
-* System dependencies
+    * click new article and create your own article
 
-* Configuration
+    * From the available options you can update or delete or view it
 
-* Database creation : by default rails uses sqlite
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+    
